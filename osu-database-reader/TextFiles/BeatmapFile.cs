@@ -100,7 +100,7 @@ namespace osu_database_reader.TextFiles
                         throw new ArgumentOutOfRangeException();
                 }
             }
-
+            
             return file;
         }
     }

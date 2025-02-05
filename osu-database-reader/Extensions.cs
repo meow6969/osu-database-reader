@@ -123,7 +123,7 @@ namespace osu_database_reader
 
                 dic.Add(key, value);
             }
-
+            
             return dic;
         }
 
